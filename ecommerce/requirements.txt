@@ -1,0 +1,3 @@
+django
+djagorestframwork
+djangorestframeworl-simplejwt
